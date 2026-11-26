@@ -1,0 +1,4 @@
+bucket         = "REPLACE_WITH_STATE_BUCKET_NAME"
+region         = "ap-south-1"
+dynamodb_table = "netflix-devsecops-terraform-locks"
+encrypt        = true
